@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079623954760",
+    "project_id": "agribridge-84116",
+    "storage_bucket": "agribridge-84116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079623954760:android:8596332ad413b1bb6c837d",
+        "android_client_info": {
+          "package_name": "com.example.agribridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCuoDMkosSctJKGZF0x3v_Bjqyqp0Nds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
